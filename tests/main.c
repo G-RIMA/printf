@@ -1,6 +1,6 @@
 #include <limits.h>
 #include <stdio.h>
-#include "../main.h"
+#include "/root/printf/main.h"
 
 /**
  * main - Entry point
